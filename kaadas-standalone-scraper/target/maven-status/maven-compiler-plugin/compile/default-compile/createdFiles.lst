@@ -1,0 +1,4 @@
+com/kaadas/scraper/KaadasScraperApp.class
+com/kaadas/scraper/model/GbOrder.class
+com/kaadas/scraper/dao/WorkOrderDao.class
+com/kaadas/scraper/utils/AddressCodeUtil.class
